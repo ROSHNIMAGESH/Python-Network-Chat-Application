@@ -7,8 +7,7 @@ A multi-client terminal chat application built with Python TCP sockets and multi
 ```text
 network_chat/
 ├── server/
-│   ├── server.py
-│   └── chat.log
+│   └── server.py
 ├── client/
 │   └── client.py
 ├── README.md
